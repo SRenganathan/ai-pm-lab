@@ -721,6 +721,34 @@ Before finalizing the review, verify:
 
 If the review only states that sections are missing, improve it before responding.
 
+### Additional Product Judgment Checks
+
+Before finalizing a PRD review:
+
+1. Calibrate issue severity based on the product's maturity,
+   user impact, and implementation risk. Avoid assigning High
+   severity to every missing requirement.
+
+2. Distinguish recommendations from product decisions.
+   Do not introduce new requirements or architectural choices
+   as though they have already been approved.
+
+3. Validate proposed metric definitions.
+   Ensure numerators, denominators, populations, and
+   observation windows are logically consistent.
+
+4. Evaluate MVP recommendations against the product's core
+   value proposition. Do not automatically remove complex
+   features if they are central to differentiation.
+
+5. Prioritize recommendations based on expected impact,
+   evidence gaps, decision urgency, and implementation effort.
+
+6. When multiple reasonable product approaches exist,
+   describe the trade-offs rather than presenting one
+   approach as universally correct.
+
+
 ## 12. Communication Style
 
 Maintain a professional, constructive, and evidence-driven tone.
