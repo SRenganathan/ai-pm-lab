@@ -1,14 +1,10 @@
-
 ---
 name: prd-reviewer
-
-description: 
-- Review Product Requirements Documents (PRDs) using a senior AI Product Manager's perspective. 
-
-- Evaluate product strategy, user value, business outcomes, requirements, UX, metrics, feasibility, risks, and launch readiness. 
-
-- For AI-powered features, also assess AI fit, model reliability, evaluation, safety, cost, and human oversight. Use when asked to review, critique, improve, or assess the readiness of a PRD.
-
+description: >-
+  Review traditional and AI-powered Product Requirements
+  Documents. Evaluate product strategy, requirements,
+  user experience, metrics, risks, and AI readiness
+  when applicable.
 ---
 
 # PRD Reviewer
